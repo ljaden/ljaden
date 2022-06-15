@@ -1,3 +1,6 @@
+![banner](banner.png)
+
+
 <h1 align="center">Hi👋, I'm Jaden</h1>
 <h3 align="center">A Full-Stack Web Developer</h3>
 
